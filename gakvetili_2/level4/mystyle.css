@@ -1,0 +1,10 @@
+p {
+    color: rgb(184, 29, 29);
+    font-size: 50px;
+}
+
+button {
+    font-size: 50px;
+    color: white;
+    background-color: black;
+}
